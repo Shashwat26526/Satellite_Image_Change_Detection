@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local satellite imagery
+*.tif
+*.tiff
+
+# Temporary and operating-system files
+.DS_Store
+Thumbs.db
+~$*.csv
